@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, world. You all can always call me Sheng.
+
+I have been inspired by the immense benefits Artificial Intelligence can bring to the world and have always had strong passion in keeping abreast on how this constantly advancing technology can potentailly lend a hand for people how are really in need. Microsoft Azure was the first platform that introduced me into the fascinate machanism behind these sophisticated tools. It started off with building understand on different workloads of AI, learning on how these workloads can be integrated to build a full, functional, and most importantly viable product. Through its learning materials and involvement in hackathons, it was also exiting to be able to develop real-world application and put the theoretical knowledge into practice. 
+
+At present, as I pursue into the field of technology, I am able to commit in expand my horizon as well as acquiring and enhancing skills relevent for bringing technological ideas to reality. I am exuburant in learning various ingenious technological concepts and services for facilitating more effecient and productive development of intelligent systems. Apart form that, collaboration with expert of different experience and background is also another essentail aspect that I am looking forward to. 
+
+Most importantly, I would value the opportunity to share my knowledge and ideas, if I am given the opportunity. While I would be grateful to inspire and help individuals on technological tools, what I am looking forward to is being able to learn from the community.
